@@ -3,3 +3,4 @@
 mkdir test
 @echo hi> test\out.txt 
 @echo Build Succesfull
+exit /b 0
